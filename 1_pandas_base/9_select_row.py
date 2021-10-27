@@ -6,7 +6,7 @@ Created on Fri Oct  1 21:00:25 2021
 """
 
 import pandas as pd
-
+https://github.com/heradenk/python_pandas/blob/main/1_pandas_base/1.9_select_row.py
 # DataFrame() 함수로 데이터프레임 변환. 변수 df에 저장
 exam_data = {'수학' : [ 90, 80, 70], '영어': [ 98, 89, 95],
              '음악' : [ 85, 95, 100], '체육': [ 100, 90, 90]}
