@@ -1,4 +1,4 @@
 # python_pandas
-private project for pandas data analysis
+Private project for Pandas Data analysis
 
-Pandas Data-Analysis Machine-Learning
+Pandas / Data-Analysis / Machine-Learning
