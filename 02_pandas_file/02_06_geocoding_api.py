@@ -12,7 +12,7 @@ Created on Thu Oct 28 21:52:05 2021
 import googlemaps
 import pandas as pd
 
-my_key = "AIzaSyCHmAuxfbM46ptAH5pVM-AzMcMc2VMCxNQ"
+my_key = "---key-----"
 
 # 구글맵스 객체 생성하기
 maps = googlemaps.Client(key=my_key) # my key값 입력
