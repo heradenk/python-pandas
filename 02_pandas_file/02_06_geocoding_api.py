@@ -5,7 +5,7 @@ Created on Thu Oct 28 21:52:05 2021
 @author: YOO
 """
 
-## google 지오코딩 API를 통해 위도, 경도 데이터 가죠오기
+## google 지오코딩 API를 통해 위도, 경도 데이터 가져오기
 
 # 라이브러리 가져오기
 
